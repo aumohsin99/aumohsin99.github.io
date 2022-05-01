@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohsin</h1>
 <h3 align="center">Junior Year Student of Software Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aumohsin99&label=Profile%20views&color=0e75b6&style=flat" alt="aumohsin99" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aumohsin99" alt="aumohsin99" /></a> </p>
 
 - 🔭 I’m currently working on [PetX](https://github.com/aumohsin99/PetX)
@@ -11,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Flask - Python**
 
-- 📝 I write articles on [https://medium.com/@aumohsin99](https://medium.com/@aumohsin99)
+- 👨‍💻 All of my projects are available at [https://github.com/aumohsin99?tab=repositories](https://github.com/aumohsin99?tab=repositories)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1qP9Sh1BEd0SsN5Uxwa7txS0HUPtcjuI59M3jJbd2-AY/edit?usp=sharing](https://docs.google.com/document/d/1qP9Sh1BEd0SsN5Uxwa7txS0HUPtcjuI59M3jJbd2-AY/edit?usp=sharing)
+- 📝 I write articles on [https://medium.com/@aumohsin99](https://medium.com/@aumohsin99)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
