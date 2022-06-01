@@ -14,5 +14,9 @@ I am a junior year student of Software Engineering.
 ### ✍️Computer Science Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Computer Science Meme
+### 🙂Computer Science Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+- - -
+
+Thanks for visiting my profile.
