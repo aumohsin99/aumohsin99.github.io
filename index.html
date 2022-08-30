@@ -21,7 +21,15 @@
 	<!-- Animations -->
     <link href="css/animate.css" rel="stylesheet">
 	<!-- Custom Favicon -->
-	<link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" /> 
+  
+  <!-- my favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <!-- my favicons end here-->
+
+	<!-- <link href="img/favicon.ico" rel="shortcut icon" type="image/x-icon" />  -->
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -524,7 +532,11 @@
 			<div class="row">
 			  <!-- Google Maps (Change your Settings below) -->
 			  <div class="col-md-6">
-			    <div id="googlemaps"></div>
+          <!-- my code starts here-->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d307719.4568113157!2d74.30607140682262!3d31.53280324164286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1661870541829!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>          
+          <!-- my code ends here-->
+
+			    <!-- <div id="googlemaps"></div> -->
 			  </div>
 			  <!-- Contact Form -->
 			  <div class="col-md-6 contact">
@@ -632,7 +644,10 @@
                 scrollwheel: false,
 
                 // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(40.68961985411178, -74.01618003845215), // New York 
+                //31.54277063696415, 74.13248123956815
+                //31.508357,74.3467279,10.26z
+                //31.527747406704773, 74.34714899416507
+                center: new google.maps.LatLng(31.5683892,74.3132687), // Lahore, Pakistan
 
                 // How you would like to style the map. 
                 // This is where you would paste any style found on Snazzy Maps.
