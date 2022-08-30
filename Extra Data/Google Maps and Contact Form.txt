@@ -1,0 +1,40 @@
+<div class="row">
+			  <!-- Google Maps (Change your Settings below) -->
+			  <div class="col-md-6">
+          <!-- my code starts here-->
+          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d307719.4568113157!2d74.30607140682262!3d31.53280324164286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1661870541829!5m2!1sen!2s" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>          
+          <!-- my code ends here-->
+			    <!-- <div id="googlemaps"></div> -->
+			  </div>
+			  <!-- Contact Form -->
+
+<div class="col-md-6 contact">
+			     <form role="form">
+				            <!-- Name -->
+                            <div class="row">
+                                <div class="col-md-6">
+								    <!-- E-Mail -->
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" placeholder="Your name">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+								    <!-- Phone Number -->
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" placeholder="Email address">
+                                    </div>
+                                </div>
+                            </div>
+							<!-- Message Area -->
+                            <div class="form-group">
+                                <textarea class="form-control" placeholder="Write your message here..." style="height:232px;"></textarea>
+                            </div>
+							<!-- Subtmit Button -->
+                            <button type="submit" class="btn btn-send">
+                                Send message
+                            </button>
+                        </form>
+			  </div>
+			</div>
+
+
