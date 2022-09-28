@@ -19,7 +19,7 @@ I am a junior year student of Software Engineering.
 ### 🙂Computer Science Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+Thanks for visiting my profile.
+
 - - -
 commented part ends here--->
-
-Thanks for visiting my profile.
