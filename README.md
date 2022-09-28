@@ -10,6 +10,8 @@ I am a junior year student of Software Engineering.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aumohsin99&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aumohsin99&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<!--- commented part starts here
+
 ## Miscellaneous:
 ### ✍️Computer Science Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -18,5 +20,6 @@ I am a junior year student of Software Engineering.
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 - - -
+commented part ends here--->
 
 Thanks for visiting my profile.
